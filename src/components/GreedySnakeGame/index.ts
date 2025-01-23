@@ -1,4 +1,4 @@
-import { App, Group, Rect, Box, Text, Path, IAppConfig, IAppInputData, IRectInputData, IGroupInputData, IPointData } from 'leafer-ui'
+import { App, Group, Rect, Box, IAppConfig, IAppInputData, IRectInputData, IGroupInputData, IPointData } from 'leafer-ui'
 
 // 移动方向
 type Direction = "right" | "left" | "up" | "down"
